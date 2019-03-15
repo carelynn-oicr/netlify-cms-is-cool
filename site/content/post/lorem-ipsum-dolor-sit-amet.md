@@ -1,5 +1,5 @@
 ---
-title: Lorem ipsum dolor sit amet
+title: Lorem ipsum dolor sit amet...
 date: 2019-03-15T17:52:17.379Z
 description: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
